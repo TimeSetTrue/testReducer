@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/TimeSetTrue/testReducer.git/static/js/main.37625d41.chunk.js",
-    "main.js.map": "/TimeSetTrue/testReducer.git/static/js/main.37625d41.chunk.js.map",
-    "runtime-main.js": "/TimeSetTrue/testReducer.git/static/js/runtime-main.8e57d428.js",
-    "runtime-main.js.map": "/TimeSetTrue/testReducer.git/static/js/runtime-main.8e57d428.js.map",
-    "static/js/2.1c64bb4f.chunk.js": "/TimeSetTrue/testReducer.git/static/js/2.1c64bb4f.chunk.js",
-    "static/js/2.1c64bb4f.chunk.js.map": "/TimeSetTrue/testReducer.git/static/js/2.1c64bb4f.chunk.js.map",
-    "index.html": "/TimeSetTrue/testReducer.git/index.html",
-    "static/js/2.1c64bb4f.chunk.js.LICENSE.txt": "/TimeSetTrue/testReducer.git/static/js/2.1c64bb4f.chunk.js.LICENSE.txt"
+    "main.js": "/testReducer/static/js/main.37625d41.chunk.js",
+    "main.js.map": "/testReducer/static/js/main.37625d41.chunk.js.map",
+    "runtime-main.js": "/testReducer/static/js/runtime-main.a8ceffbf.js",
+    "runtime-main.js.map": "/testReducer/static/js/runtime-main.a8ceffbf.js.map",
+    "static/js/2.1c64bb4f.chunk.js": "/testReducer/static/js/2.1c64bb4f.chunk.js",
+    "static/js/2.1c64bb4f.chunk.js.map": "/testReducer/static/js/2.1c64bb4f.chunk.js.map",
+    "index.html": "/testReducer/index.html",
+    "static/js/2.1c64bb4f.chunk.js.LICENSE.txt": "/testReducer/static/js/2.1c64bb4f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e57d428.js",
+    "static/js/runtime-main.a8ceffbf.js",
     "static/js/2.1c64bb4f.chunk.js",
     "static/js/main.37625d41.chunk.js"
   ]
